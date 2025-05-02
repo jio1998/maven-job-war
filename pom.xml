@@ -13,7 +13,7 @@
 
          
 	<properties>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		
 		<sonar.host.url>http://34.224.33.54:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>1234</sonar.password> 
